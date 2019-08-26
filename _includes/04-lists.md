@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* Not doing tutorials
+  * That is all
